@@ -126,7 +126,7 @@ color: #f2f6f9;
 }
 
 
-.container {width: 97%;
+.container {
 text-align: center;
 height: 34px;
   background-color: bisque;
@@ -142,7 +142,7 @@ height: 34px;
 }
 
 .copy-text{
-  width: 100%;
+  
   padding: .4rem;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   border-radius: 3px;
