@@ -99,7 +99,7 @@ display: flex;
 color: #f2f6f9;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding:.8rem;
-  margin-top:.4rem
+  margin-top:.4rem;
 }
 
 .container-fluid{
@@ -124,7 +124,7 @@ color: #f2f6f9;
 }
 
 
-.container {width: 100%;
+.container {width: 97%;
 text-align: center;
 height: 34px;
   background-color: bisque;
