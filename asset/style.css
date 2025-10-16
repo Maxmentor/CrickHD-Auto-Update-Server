@@ -85,9 +85,12 @@ display: flex;
 }
 
 .name{
-  padding-top:.4rem;
+  margin-top:.4rem;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+}
+.list{
+  margin-top:.3rem
 }
 .list a{
 
