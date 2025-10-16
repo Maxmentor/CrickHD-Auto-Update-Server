@@ -11,3 +11,5 @@ Telegram: https://t.me/maxmentor
 -----------------------------------------
 Credit To: https://github.com/abusaeeidx
 -----------------------------------------
+
+Note: This Project Is totally free. Not For Sale.
