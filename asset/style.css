@@ -124,7 +124,7 @@ color: #f2f6f9;
 }
 
 
-.container {
+.container {width: 100%;
 text-align: center;
 height: 34px;
   background-color: bisque;
